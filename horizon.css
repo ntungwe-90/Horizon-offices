@@ -1,0 +1,22 @@
+.navbar-head {
+    background-color: white;
+    color: black;
+    border color: none;
+    border-radius: 0px;
+    margin-bottom: 0px
+}
+.carousel-content {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+
+.footer{
+	background-color: darkblue;
+	padding: 2em;
+	color:white ;
+
+}
+
